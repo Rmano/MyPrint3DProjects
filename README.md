@@ -7,7 +7,7 @@ This is a completely parametric design to build a stand for NespressoⓇ  Vertuo
 * It's very compact, occupying little more space than the capsules themselves;
 * You can access each one of the capsules independently;
 * You can choose to have it stand by itself or hang it (see parameters in the code);
-* It prints with almost no support material (just a tiny bit for the hanging holes, if present; just use the flat side as a base).
+* It prints with almost no support material (just a tiny bit for the hanging holes, if presents; just use the flat side as the base).
 
 Look in the [VertuoStand](./VertuoStand) directory for the OpenScad code and the Bambu Studio project for a 3x5 stand as in the photos below.
 
