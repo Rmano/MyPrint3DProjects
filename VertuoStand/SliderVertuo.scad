@@ -1,3 +1,26 @@
+/*==============================================================================
+    SliderVertuo.scad
+    Copyright (c) 2026 Romano Giannetti
+
+    Author:
+        Romano Giannetti
+
+    License:
+        Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)
+
+        You are free to:
+            - Share: copy and redistribute the material
+            - Adapt: remix, transform, and build upon the material
+
+        Under the following terms:
+            - Attribution: credit must be given to the author
+            - NonCommercial: no commercial use permitted
+            - ShareAlike: derivatives must use the same license
+
+        Full license text:
+            https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+==============================================================================*/
 $fn = 60;
 // $vpr = [325, 50, 280];
 // $vpd = 900;
